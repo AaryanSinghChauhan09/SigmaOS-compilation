@@ -2,7 +2,7 @@
 name = "arch-compilation"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-compilation component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-compilation component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-compilation"
 
